@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-catalog/product-catalog.iml" filepath="$PROJECT_DIR$/product-catalog/product-catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/shopping-cart/shopping-cart.iml" />
+    </modules>
+  </component>
+</project>
