@@ -52,7 +52,7 @@ public class ShoppingCartController {
             return ResponseEntity.notFound().build();
         }
         repository.deleteById(cartId);
-        ///catalog.excluir(cartId);
+        //catalog.excluir(cartId);
         return ResponseEntity.noContent().build();	//Retornará um 204 (Sucesso sem resposta)
     }
 
