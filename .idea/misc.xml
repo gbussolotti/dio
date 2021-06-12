@@ -4,8 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/product-catalog/pom.xml" />
-        <option value="$PROJECT_DIR$/shopping-cart/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-cart/pom.xml" />
         <option value="$PROJECT_DIR$/cart/pom.xml" />
       </list>
     </option>

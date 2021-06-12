@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopping-cart/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/shopping-cart/.mvn/.mvn.iml" />
       <module fileurl="file://$PROJECT_DIR$/cart/cart.iml" filepath="$PROJECT_DIR$/cart/cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-cart/src/main/main.iml" filepath="$PROJECT_DIR$/shopping-cart/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/product-catalog/product-catalog.iml" filepath="$PROJECT_DIR$/product-catalog/product-catalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/shopping-cart/shopping-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-cart/src/test/test.iml" filepath="$PROJECT_DIR$/shopping-cart/src/test/test.iml" />
     </modules>
   </component>
 </project>
